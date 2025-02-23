@@ -1,5 +1,3 @@
-import React from "react";
-
 const AIControl = () => {
   return (
     <div className="p-6">
